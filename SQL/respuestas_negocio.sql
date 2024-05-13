@@ -1,4 +1,4 @@
-
+/*Todas las consultas fueronr realizadas en BigQuery*/
 
 /*Listar los usuarios que cumplan años el día de hoy cuya cantidad de ventas
 realizadas en enero 2020 sea superior a 1500.*/
