@@ -1,3 +1,5 @@
+/*Toda las consultas fueron realizadas en BigQuery*/
+
 /*Creación tabla Customer*/
 
 CREATE TABLE MercadoLibre.Customer (
