@@ -1,1 +1,0 @@
-# Challenge-Mercado-Libre-CoreBI
